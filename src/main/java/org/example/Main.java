@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Git練習を始めます");
         System.out.println("おっはー");
         System.out.println("しんごまま");
+        System.out.println("おっす");
 
     }
 }
