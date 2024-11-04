@@ -7,6 +7,7 @@ public class Main {
         System.out.println("しんごまま");
         System.out.println("おっす");
         System.out.println("おらご空");
+        System.out.println("練習中");
 
     }
 }
