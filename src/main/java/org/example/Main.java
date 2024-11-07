@@ -8,5 +8,6 @@ public class Main {
         System.out.println("鈴木さん参加");
 
         System.out.println("新機能2");
+        System.out.println("ナメック星へ");
     }
 }
