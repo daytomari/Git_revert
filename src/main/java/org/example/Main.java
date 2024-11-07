@@ -10,5 +10,6 @@ public class Main {
         System.out.println("新機能1");
         System.out.println("界王様にあった");
         System.out.println("元気玉");
+        System.out.println("界王拳");
     }
 }
