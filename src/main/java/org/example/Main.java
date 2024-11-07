@@ -9,5 +9,6 @@ public class Main {
 
         System.out.println("新機能2");
         System.out.println("ナメック星へ");
+        System.out.println("重力100倍");
     }
 }
