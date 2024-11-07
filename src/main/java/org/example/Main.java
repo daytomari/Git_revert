@@ -8,5 +8,6 @@ public class Main {
         System.out.println("鈴木さん参加");
 
         System.out.println("新機能1");
+        System.out.println("界王様にあった");
     }
 }
