@@ -6,5 +6,7 @@ public class Main {
         System.out.println("安積さん参加");
         System.out.println("高瀬さん参加");
         System.out.println("鈴木さん参加");
+
+        System.out.println("新機能2");
     }
 }
