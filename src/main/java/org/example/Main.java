@@ -11,5 +11,10 @@ public class Main {
         System.out.println("界王様にあった");
         System.out.println("元気玉");
         System.out.println("界王拳");
+
+        System.out.println("新機能2");
+        System.out.println("ナメック星へ");
+        System.out.println("重力100倍");
+        System.out.println("何度も死の淵より復活");
     }
 }
